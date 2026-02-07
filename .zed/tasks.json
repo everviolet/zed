@@ -1,0 +1,14 @@
+[
+  {
+    "label": "Build (all)",
+    "command": "just all"
+  },
+  {
+    "label": "Build (green only)",
+    "command": "just green"
+  },
+  {
+    "label": "Clean",
+    "command": "just clean"
+  }
+]
